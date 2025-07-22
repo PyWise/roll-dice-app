@@ -3,8 +3,7 @@
 A simple and fun dice roller built with **Flutter**. Tap the dice to roll and get a random result!
 
 ## App Preview
-
-![Main screen](assets/images/screenshot.png)
+<img src="assets/images/screenshot.png" alt="App Screenshot" width="300"/>
 
 ## 🚀 Features
 
