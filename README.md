@@ -2,6 +2,10 @@
 
 A simple and fun dice roller built with **Flutter**. Tap the dice to roll and get a random result!
 
+## App Preview
+
+![Main screen](assets/screenshot.png)
+
 ## 🚀 Features
 
 - 🎯 Random dice number generation
