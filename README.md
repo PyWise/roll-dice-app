@@ -4,7 +4,7 @@ A simple and fun dice roller built with **Flutter**. Tap the dice to roll and ge
 
 ## App Preview
 
-![Main screen](assets/screenshot.png)
+![Main screen](assets/images/screenshot.png)
 
 ## 🚀 Features
 
